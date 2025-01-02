@@ -8,4 +8,6 @@ x=600
 print(x)
 y= x
 print(y)
+print(id(x))
+print(id(y))
 
